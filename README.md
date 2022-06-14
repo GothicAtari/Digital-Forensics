@@ -7,6 +7,13 @@
 
 ## Contents
 
-#### - Recovered Files folder includes the contents of the recovered disk image
-#### - FileRecovery.py is a program that will scan a disk image and recover deleted files from it.
-#### - Project Report.pdf includes more in depth details on the project details and how the program works.
+### - Recovered Files folder includes the contents of the recovered disk image
+### - FileRecovery.py is a program that will scan a disk image and recover deleted files from it.
+### - Project Report.pdf includes more in depth details on the project details and how the program works.
+
+## Challenges
+
+### - Understanding unique file structures
+### - Understanding the layout of a storage device
+### - Learning how to encrpyt/decrypt
+### - Becoming more comfortable analyzing hexidecimal values
